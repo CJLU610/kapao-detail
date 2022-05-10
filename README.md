@@ -1,4 +1,4 @@
-# KAPAO (Keypoints and Poses as Objects)
+# KAPAO (Keypoints and Poses as Objects) -CJLU
 
 ## the details will be released within two weeks.
 
