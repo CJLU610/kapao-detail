@@ -1,5 +1,6 @@
 # KAPAO (Keypoints and Poses as Objects) -CJLU
 
+## some tips in our work
 ## the details will be released within two weeks.
 
 KAPAO is an efficient single-stage multi-person human pose estimation method that models 
